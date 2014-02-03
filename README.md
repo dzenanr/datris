@@ -5,7 +5,7 @@
 
 **Description**: Start on Dart spirals.
 
-Based on [canvas tutorial](http://jjinux.blogspot.ca/2011/11/tetris-in-dart.html).
+Based on [Tetris in Dart](http://jjinux.blogspot.ca/2011/11/tetris-in-dart.html).
 
 [Document](http://goo.gl/68ecjb)
 
