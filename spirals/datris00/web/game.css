@@ -1,0 +1,11 @@
+img {
+  border: 0;
+}
+
+.board div {
+  height: 16px;
+}
+
+#board-trailing-img {
+  vertical-align: top;
+}

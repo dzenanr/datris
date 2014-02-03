@@ -1,0 +1,4 @@
+name: datris
+description: Tetris game in Dart.
+dependencies:
+  browser: any
