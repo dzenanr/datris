@@ -3,7 +3,7 @@
 
 **Categories**: education, game.
 
-**Description**: Start on Dart spirals.
+**Description**: Start on Dart spirals without canvas.
 
 Based on [Tetris in Dart](http://jjinux.blogspot.ca/2011/11/tetris-in-dart.html).
 
